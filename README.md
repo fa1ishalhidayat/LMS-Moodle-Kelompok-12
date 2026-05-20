@@ -40,9 +40,10 @@ MUHAMMAD NUR RAFI (25050974108)
 
 4. Import database moodle_database.sql ke phpMyAdmin XAMPP
 5. Restore file backup .mbz melalui:
+
    Site Administration > Courses > Restore > Tunggu proses > Selesai
-6. Selesai
-7. LMS Moodle bisa digunakan dengan fitur yang sudah ada pada plugin block completion progress yang sudah di install tadi
+7. Selesai
+8. LMS Moodle bisa digunakan dengan fitur yang sudah ada pada plugin block completion progress yang sudah di install tadi
 
 
 
