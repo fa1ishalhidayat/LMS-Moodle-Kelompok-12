@@ -38,7 +38,7 @@ MUHAMMAD NUR RAFI (25050974108)
     untuk pluginnya pada link yang tertera:
     https://moodle.org/plugins/block_completion_progress/version-for-moodle-4.1-onwards/38217?lang=en_us&utm_source=
 
-4. Import database moodle_database.sql ke phpMyAdmin XAMPP
+4. Import database moodle_database.sql ke phpMyAdmin XAMPP (Opsional karena sudah menggunakan file backup berupa mbz)
 5. Restore file backup .mbz melalui:
 
    Site Administration > Courses > Restore > Tunggu proses > Selesai
